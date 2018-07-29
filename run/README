@@ -1,0 +1,7 @@
+plot.txt and plot.xyz are example output files
+
+every other .txt file are example input files
+
+the fortran program in src folder reads planets.txt at the moment
+
+the matlab script planetmotion.m makes plots from plot.txt and animation.m makes animations from plot.txt

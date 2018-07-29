@@ -1,0 +1,4 @@
+to run the program:
+
+gfortran -c verlet.f90 main.f90 && gfortran verlet.o main.o
+./a.out
